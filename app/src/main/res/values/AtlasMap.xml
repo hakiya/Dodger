@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ObjectAxAtlas">0.12154646</string>
+    <string name="ObjectAyAtlas">0.12345</string>
+    <string name="ObjectAxAtlasLen">0.12345</string>
+    <string name="ObjectAyAtlasLen">0.12345</string>
+    <string name="ObjectAxSize">0.12345</string>
+    <string name="ObjectAySize">0.12345</string>
+</resources>
